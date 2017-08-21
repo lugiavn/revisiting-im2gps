@@ -8,7 +8,7 @@ function features = compute_image_features(img_files)
 
     caffe.reset_all();
     caffe.set_mode_cpu();
-    caffe.set_mode_gpu();
+    % caffe.set_mode_gpu();
     net = caffe.Net(caffe_model, caffe_weights, 'test');
 
     batch_data = single(zeros(image_resize_size, image_resize_size, 3, batch_size));

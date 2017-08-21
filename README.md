@@ -7,6 +7,7 @@ Prerequisites:
 - Matlab
 - Caffe & its Matlab interface: http://caffe.berkeleyvision.org/
 - FLANN & its Matlab interface: http://www.cs.ubc.ca/research/flann/
+- Have 3.5GB of free RAM
 
 Test on new images:
 - Download reference features from http://www.mediafire.com/file/7l2dqi7f7obzu57/reference_im2gps.zip and unzip the .mat files to "reference" folder
