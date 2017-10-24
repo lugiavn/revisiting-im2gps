@@ -3,6 +3,8 @@
 Code & data for the "Revisiting IM2GPS in the Deep Learning Era" paper
 https://www.cc.gatech.edu/~nvo9/revisitingim2gps_iccv2017/
 
+PyTorch version: to be released
+
 Prerequisites:
 - Matlab
 - Caffe & its Matlab interface: http://caffe.berkeleyvision.org/
