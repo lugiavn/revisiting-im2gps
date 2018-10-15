@@ -1,5 +1,7 @@
 # Revisiting Im2GPS
 
+![](https://lugiavn.github.io/gatech/revisitingim2gps_iccv2017/pipeline.png "")
+
 Code & data for our "Revisiting IM2GPS in the Deep Learning Era" paper
 
 PyTorch version: to be released
