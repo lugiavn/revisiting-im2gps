@@ -26,7 +26,7 @@ Datasets:
 - Im2GPS3k, used for testing in our paper: this is part of the original Im2GPS dataset, here's the 3000 (full resolution) images http://www.mediafire.com/file/7ht7sn78q27o9we/im2gps3ktest.zip
 - Im2GPS, used for training/referencing: more than 5 million images, this is part of the original Im2GPS dataset. We are not able to provide access to the images, though you can download the reference features (above), look up the file names and infer the original sources on Flickr.
 - YFCC100M, used for referencing: due to time constraint, we were only able to download ~22 million images for the experiments reported in the paper. The full dataset can be found here https://webscope.sandbox.yahoo.com/catalog.php?datatype=i&did=67
-- YFCC4k, used for testing in our paper: actually 4536 images. We've lost our YFCC100M data, but still have the list of image-id here: http://www.mediafire.com/file/8v2j565997i5jed/0aaaa.r.imagedata.txt, from which you can look up the sources/URLs in the YFCC100M dataset.
+- YFCC4k, used for testing in our paper: actually 4536 images. We've lost our YFCC100M data, but still have the list of image-id here: http://www.mediafire.com/file/8v2j565997i5jed/0aaaa.r.imagedata.txt, from which you can look up the sources/URLs in the YFCC100M dataset. Update: we got the images: www.mediafire.com/file/3og8y3o6c9de3ye/yfcc4k.zip
 
 Reference:
 - Nam Vo, Nathan Jacobs and James Hays. "Revisiting IM2GPS in the Deep Learning Era". ICCV 2017.
